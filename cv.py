@@ -23,6 +23,7 @@ def main():
 
     return None
 
+#statistics
 col1, col2, col3 = st.columns(3)
 col1.metric("Industry Experience", "15+", "+")
 col2.metric("Biotech/Pharma", "10", "+")
