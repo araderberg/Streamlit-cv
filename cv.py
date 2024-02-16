@@ -227,7 +227,7 @@ $ Data Management SOP Writing
     #######################################
 
     with col2:
-        col2.subheader('Experience')
+        col2.subheader('Professional journey')
         st.code('''
 # list of companies I have worked for:
 >>>  GSK (Consultant)
