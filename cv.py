@@ -171,12 +171,12 @@ $  Advanced troubleshooting and debugging
     st.sidebar.markdown('<small>Learn more about [About Me!](https://github.com/araderberg/)</small>', unsafe_allow_html=True)
 
     st.sidebar.markdown('''<hr>''', unsafe_allow_html=True)
-    st.sidebar.markdown('<small>[Resume v1.0](https://github.com/araderberg/cv-resume)  | Feb 2024 | [l Aaaliyah RaDerBerg](https://aaliyahraderberg.wordpress.com/)</small>', unsafe_allow_html=True)
+    st.sidebar.markdown('<small>[Resume v1.0](https://github.com/araderberg/Streamlit-cv)  | Feb 2024 | [l Aaaliyah RaDerBerg](https://aaliyahraderberg.wordpress.com/)</small>', unsafe_allow_html=True)
 
     return None
 
 ##########################
-# Main body of cheat sheet
+# Main body of cv-resume
 ##########################
 
 def cv_body():
