@@ -81,6 +81,20 @@ to improve myself. Curious about new possibilities and taking action to explore 
 >>> Results / Detail Oriented = Dedicated to completion of tasks in a timely manner and with regard to quality
     ''')
 
+#EDC Systems
+    st.sidebar.markdown('__⚕️EDC Systems__')
+    st.sidebar.code('''
+>>> Medidata Rave Classic/RaveX
+>>> Medrio
+>>> Oracle RDC/Inform EDC
+>>> Fusion EDC
+>>> VeeVa EDC
+>>> Castor EDC
+>>> Viedoc EDC
+>>> IBM OS
+>>> REDcap
+   ''')
+
 #Tech section
     st.sidebar.markdown('''__📈Tech Skills__''')
     st.sidebar.code('''
@@ -230,17 +244,26 @@ $ Data Management SOP Writing
         col2.subheader('Professional journey')
         st.code('''
 # list of companies I have worked for:
->>>  GSK (Consultant)
->>>  RAeclinica
->>>  GenesisCare
->>>  Danaher/Beckman
->>>  Amgen (CRO FSP)
->>>  CROs
->>>  J&J / Jansen (Consultant)
->>>  Novartis Vaccines (Consultant)
->>>  Eli Lilly (CRO FSP)
->>>  Grunenthal
+>>>  Biotech/Pharma:
+>>>    Amgen (CRO FSP)
+>>>    J&J / Jansen (Consultant)
+>>>    Novartis Vaccines (Consultant)
+>>>    Eli Lilly (CRO FSP)
+>>>    GSK (Consultant)
+>>>    Grunenthal
+>>>  CROs:
+>>>    i3
+>>>    StatWorks
+>>>    GenesisCare
+>>>    Syneos
+>>>    Theorem
 >>>  Consulting projects...
+>>>    SmithHanley
+>>>    RAeclinica
+>>>  Medical Device:  
+>>>    Danaher/Beckman
+>>>    J&J Medical Device (Consultant)
+>>>    Edwards
 
 # * Complete cv will be provided upon request and prior to an interview...
 ''')   
